@@ -7,10 +7,10 @@
 
 # Site settings
 title: Michel Coz Poèsies et photos malouines
-email: your-email@domain.com
+email: cozmichel@gmail.com
 description: Photographies des archives municipales de Saint-Malo et poèsies
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://cozmichel.github.io/" # the base hostname & protocol for your site
 twitter_username: cozmichel
 github_username:  cozmichel
 
